@@ -1,7 +1,6 @@
-# Luke Gorrie's blog
+# Hajime Tazaki's blog
 
-Howdy!
+This blog was inspired by [Luke Gorrie](https://github.com/lukego/blog) as a fork of his repository.
 
-My name is [Luke Gorrie](http://lukego.com/). I blog by creating [Github issues](https://github.com/lukego/blog/issues) in this repository.
 
-I spend a lot of time hacking on [Snabb Switch](https://github.com/SnabbCo/snabbswitch) and that is the inspiration for most of my blogging.
+I blog by creating [Github issues](https://github.com/thehajime/blog/issues) in this repository.
